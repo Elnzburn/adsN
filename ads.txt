@@ -8,3 +8,5 @@ https://easylist.to/easylist/easyprivacy.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
 https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+https://raw.githubusercontent.com/Faelayis/AdBlock-Thai-Filters/master/filters/banner.txt
+https://raw.githubusercontent.com/Faelayis/AdBlock-Thai-Filters/master/filters/ads.txt
